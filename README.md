@@ -1,18 +1,7 @@
-# diced
+# Getting Things Diced on Paper
 
-__*Android Implementation of 'Diced' ToDo Assistant*__
+This stems from an idea I was playing with around 2015 (apparently). The Wayback machine has my blog post from the time : [Getting Things Diced](https://web.archive.org/web/20230321045154/https://hyperdata.it/blog/2015/05/11/getting-things-diced/).
 
-## Status
+A procedure that might sometimes help with [task paralysis](https://www.drakeinstitute.com/what-is-adhd-paralysis).
 
-**2023-06-07** Nothing here yet.
-
-
-Back in 2015 I came up with a procedure for *Getting Things Done*, well, at least a procedure for choosing which task to do next.
-
-I [blogged](https://hyperdata.it/blog/2015/05/11/getting-things-diced/) about it then and started an implementation a little while later. Then got distracted. 
-
-Now in 2023 I'm returning to it.
-
-Since my last abortive attempt, the Android coding landscape has changed somewhat and I've not kept up. So rather than building on my previous attempt I decided to start again from scratch.
-
-
+Decision making, dice man

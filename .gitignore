@@ -1,3 +1,7 @@
+# hide the junk
+old
+
+
 # Gradle files
 .gradle/
 build/
